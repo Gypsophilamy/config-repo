@@ -1,1 +1,2 @@
-book.config=test.0
+book:
+  config: test.0
