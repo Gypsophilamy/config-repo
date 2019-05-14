@@ -1,1 +1,2 @@
-book.config=dev.0
+book:
+  config: dev.0
