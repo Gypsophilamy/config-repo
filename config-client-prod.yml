@@ -1,1 +1,2 @@
-book.config=prod.0
+book:
+  config: prod.0
